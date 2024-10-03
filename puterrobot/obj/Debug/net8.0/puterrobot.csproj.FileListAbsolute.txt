@@ -1,0 +1,4 @@
+C:\Users\manue\Documents\AA SDU\C#\pitudo69\puterrobot\obj\Debug\net8.0\puterrobot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manue\Documents\AA SDU\C#\pitudo69\puterrobot\obj\Debug\net8.0\puterrobot.AssemblyInfoInputs.cache
+C:\Users\manue\Documents\AA SDU\C#\pitudo69\puterrobot\obj\Debug\net8.0\puterrobot.AssemblyInfo.cs
+C:\Users\manue\Documents\AA SDU\C#\pitudo69\puterrobot\obj\Debug\net8.0\puterrobot.csproj.CoreCompileInputs.cache

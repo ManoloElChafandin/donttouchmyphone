@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{9E5FEE1C-0F03-47AE-A451-97BC967FB5D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "puterrobot", "puterrobot\puterrobot.csproj", "{F771573F-56B9-4F7B-A565-3F170D62DF61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "binladen", "..\binladen\binladen.csproj", "{7CD0829B-D052-4F46-AAC3-C804D4AB6188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E5FEE1C-0F03-47AE-A451-97BC967FB5D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E5FEE1C-0F03-47AE-A451-97BC967FB5D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E5FEE1C-0F03-47AE-A451-97BC967FB5D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E5FEE1C-0F03-47AE-A451-97BC967FB5D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F771573F-56B9-4F7B-A565-3F170D62DF61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F771573F-56B9-4F7B-A565-3F170D62DF61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F771573F-56B9-4F7B-A565-3F170D62DF61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F771573F-56B9-4F7B-A565-3F170D62DF61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CD0829B-D052-4F46-AAC3-C804D4AB6188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD0829B-D052-4F46-AAC3-C804D4AB6188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD0829B-D052-4F46-AAC3-C804D4AB6188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD0829B-D052-4F46-AAC3-C804D4AB6188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
